@@ -2,6 +2,7 @@
   "name": "proyecto-bcp-next",
   "version": "1.0.0",
   "private": true,
+  "comment": "Trigger deploy manual desde Ángel",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
